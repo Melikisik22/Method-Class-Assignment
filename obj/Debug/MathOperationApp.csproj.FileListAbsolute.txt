@@ -1,0 +1,8 @@
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe.config
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.exe
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\bin\Debug\MathOperationApp.pdb
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csproj.AssemblyReference.cache
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.csproj.CoreCompileInputs.cache
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.exe
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.pdb
+C:\Users\HAFIZ-TECH\source\repos\MathOperationApp\MathOperationApp\obj\Debug\MathOperationApp.exe.config
